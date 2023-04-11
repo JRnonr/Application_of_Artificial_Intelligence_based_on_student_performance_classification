@@ -1,2 +1,2 @@
 # Y2S2_INT104 Artificial Intelligence 
-Based on the provided student score spreadsheet (which includes the scores of students from different majors on five questions), design a classifier using Python. Through data inspection, cleaning, and analysis, determine the best student classification method.
+I have provided a score spreadsheet where I need to categorize students into their respective courses based on their scores for each question and display the complete classification process. In this experiment, three classifiers, vector machine, decision tree and random forest, were established. After analysis, random forest was found to be the best. Finally, use Kmeans for clustering analysis.
