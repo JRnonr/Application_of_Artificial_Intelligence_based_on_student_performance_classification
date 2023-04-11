@@ -1,2 +1,2 @@
-# Y2S2_INT104 Artificial Intelligence 
+# Artificial Intelligence 
 I have provided a score spreadsheet where I need to categorize students into their respective courses based on their scores for each question and display the complete classification process. In this experiment, three classifiers, vector machine, decision tree and random forest, were established. After analysis, random forest was found to be the best. Finally, use Kmeans for clustering analysis.
